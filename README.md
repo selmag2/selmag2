@@ -14,23 +14,13 @@
 
 ---
 
-### 🚀 Projets clés
 
-🌐 **SmartBus-Station**  
-Système de simulation d’un panneau d’affichage intelligent de bus avec GPS, ESP32, Flask, et affichage en temps réel.  
-[`Voir sur GitHub`](https://github.com/selmag2/SmartBus-Station)
 
-💡 **Système intelligent de gestion du diabète** *(en cours)*  
-Projet IoT pour la prédiction de la glycémie avec une interface web Flask et visualisation des données capteurs.
 
-📁 **Plus de projets à venir...**  
-Je documente et publie progressivement mes travaux académiques et personnels !
-
----
 
 ### 📫 Me contacter
-- 📧 **Email** : [salma.aghzou@gmail.com](mailto:salma.aghzou@gmail.com)
-- 💼 **LinkedIn** : [linkedin.com/in/salma-aghzou](https://www.linkedin.com/in/salma-aghzou)
+- 📧 **Email** : [aghzousalma@gmail.com](mailto:aghzousalma@gmail.com)
+- 💼 **LinkedIn** : [linkedin.com/in/salma-aghzou]([https://www.linkedin.com/in/salma-aghzou](https://www.linkedin.com/in/salma-aghzou-17813a298/))
 
 ---
 
