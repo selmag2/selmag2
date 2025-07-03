@@ -10,7 +10,7 @@
 - 📡 **Systèmes embarqués** : ESP32, Arduino, UART, I2C, SPI
 - 🌐 **Web** : Flask, HTML/CSS, JavaScript
 - 📶 **Protocoles IoT** : MQTT, HTTP
-- 🛠️ **Outils** : Git, VS Code, Fritzing, Proteus
+- 🛠️ **Outils** : Git, VS Code , Proteus
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 📫 Me contacter
 - 📧 **Email** : [aghzousalma@gmail.com](mailto:aghzousalma@gmail.com)
-- 💼 **LinkedIn** : [linkedin.com/in/salma-aghzou]([https://www.linkedin.com/in/salma-aghzou](https://www.linkedin.com/in/salma-aghzou-17813a298/))
+- 💼 **LinkedIn** : [linkedin.com/in/salma-aghzou](https://www.linkedin.com/in/salma-aghzou-17813a298/)
 
 ---
 
