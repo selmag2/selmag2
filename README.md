@@ -13,13 +13,29 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-7A4C9D?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scilab-000000?style=for-the-badge&logo=scilab&logoColor=white" />
 </p>
 
-#### 🔌 Systèmes embarqués / IoT
+#### 🔌 Matériel maîtrisé
 <p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-1E1E1E?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIC18-00589C?style=for-the-badge&logo=microchip&logoColor=white" />
+</p>
+
+#### 🧰 Logiciels et outils
+<p>
+  <img src="https://img.shields.io/badge/Modelsim-007ACC?style=for-the-badge&logo=modelsim&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CUBE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-1E1E1E?style=for-the-badge&logo=proteus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OrCAD-EE3D2C?style=for-the-badge&logo=orcid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOPC%20Builder-007ACC?style=for-the-badge&logo=altera&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThingSpeak-006699?style=for-the-badge&logo=thingspeak&logoColor=white" />
 </p>
 
 #### 🌐 Web / Interface
@@ -30,17 +46,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### 🧰 Outils & Logiciels
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-1E1E1E?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fritzing-B22222?style=for-the-badge&logo=fritzing&logoColor=white" />
-</p>
-
 ---
-
-
 
 
 ### 📫 Me contacter
@@ -49,14 +55,27 @@
 
 ---
 
-
-
-
-
-
-
-
-
 ### ✨ Un petit fun fact :
 > *"The best embedded systems are those you never notice."*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selmag2&show_icons=true&theme=radical" alt="Salma's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmag2&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selmag2&label=Profile%20views&color=0e75b6&style=flat" alt="selmag2" />
+</p>
+
+
+
+
+
+
+---
+
+
+
+
 
