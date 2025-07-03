@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Salma Aghzou</h1>
+<h3 align="center">🎓 Embedded Systems and Digital Services Engineering Student @INPT</h3>
 
-<!--
-**selmag2/selmag2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">👩‍💻 Étudiante en systèmes embarqués passionnée par l’IoT, l’intelligence embarquée et les technologies innovantes.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Compétences techniques
+- 🧠 **Langages** : C, Python, VHDL, JavaScript
+- 📡 **Systèmes embarqués** : ESP32, Arduino, UART, I2C, SPI
+- 🌐 **Web** : Flask, HTML/CSS, JavaScript
+- 📶 **Protocoles IoT** : MQTT, HTTP
+- 🛠️ **Outils** : Git, VS Code, Fritzing, Proteus
+
+---
+
+### 🚀 Projets clés
+
+🌐 **SmartBus-Station**  
+Système de simulation d’un panneau d’affichage intelligent de bus avec GPS, ESP32, Flask, et affichage en temps réel.  
+[`Voir sur GitHub`](https://github.com/selmag2/SmartBus-Station)
+
+💡 **Système intelligent de gestion du diabète** *(en cours)*  
+Projet IoT pour la prédiction de la glycémie avec une interface web Flask et visualisation des données capteurs.
+
+📁 **Plus de projets à venir...**  
+Je documente et publie progressivement mes travaux académiques et personnels !
+
+---
+
+### 📫 Me contacter
+- 📧 **Email** : [salma.aghzou@gmail.com](mailto:salma.aghzou@gmail.com)
+- 💼 **LinkedIn** : [linkedin.com/in/salma-aghzou](https://www.linkedin.com/in/salma-aghzou)
+
+---
+
+### ✨ Un petit fun fact :
+> *"The best embedded systems are those you never notice."*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selmag2&show_icons=true&theme=radical" alt="Salma's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmag2&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- Badges (facultatif) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selmag2&label=Profile%20views&color=0e75b6&style=flat" alt="selmag2" />
+</p>
