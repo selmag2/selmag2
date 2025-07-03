@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/VHDL-7A4C9D?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Scilab-000000?style=for-the-badge&logo=scilab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
 </p>
 
 #### 🔌 Matériel maîtrisé
@@ -36,6 +39,9 @@
   <img src="https://img.shields.io/badge/SOPC%20Builder-007ACC?style=for-the-badge&logo=altera&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/ThingSpeak-006699?style=for-the-badge&logo=thingspeak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </p>
 
 #### 🌐 Web / Interface
