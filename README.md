@@ -61,7 +61,7 @@
 
 ---
 
-### ✨ Un petit fun fact :
+### ✨Fun fact :
 > *"The best embedded systems are those you never notice."*
 
 <p align="center">
